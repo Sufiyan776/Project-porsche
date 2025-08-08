@@ -1,4 +1,4 @@
-IMG_1468.jpeg
+
 # 🚗 Project Porsche – Smart Car Assistant
 
 This is a smart car assistant project built using Python + AI that can alert drivers about car health, safety, and driving behavior. Inspired by companies like Porsche, Mercedes, Tesla.
