@@ -18,5 +18,5 @@ This is a smart car assistant project built using Python + AI that can alert dri
 To showcase my skills in AI and smart automation, and prove that even without a university degree, I can build real-world tools that help drivers and companies.
 
 ## Author
-👤 Sufiyan Shaikh  
+👤 Sufiyan siddiqui  
 🤖 Built with help from ChatGPT
